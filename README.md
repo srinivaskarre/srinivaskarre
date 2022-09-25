@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started: -->
 
-I'm Srinivas Karre, Extensively worked on distributed systems and scaled architectures. Ability to bring designs to life and tailor it to business demands and modern infrastructure. Good Expertise in cloud native technologies, Java, Spring, Spring Boot, Docker, Kubernetes, Angular.
+I'm Srinivas Karre. Most of the times Design, Develop and Debug.
 
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on FOSS projects
 - 💬 Ask me about dsitrubted systems
+- :cloud: AWS
+- :computer: Raspberry pi
